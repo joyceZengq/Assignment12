@@ -1,0 +1,9 @@
+.row div {
+  background-color: grey;
+  border-style: solid;
+  border-color: white;
+}
+
+.nav.nav-sidebar li a {
+  color: white;
+}
