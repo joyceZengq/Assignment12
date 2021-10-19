@@ -34,3 +34,8 @@ p {
 .mx-auto {
   margin-top: 50px;
 }
+.btn-primary {
+  background-color: black;
+  border-color: #198154;
+  color: #198154;
+}
